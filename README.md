@@ -14,12 +14,12 @@ Digital design - Nios, Qsys, Direct Digital Synthesis, LFSR, Modulations, Clock 
     
     Instantiating a 5-bit LFSR to give us a pseudo-random bit sequence
 
-![Diagram of Task 1](https://github.com/joshlim01/VGA_Music_Player_RTOS/blob/main/doc/task_1_diagram.png)
+![Diagram of Task 1](https://github.com/joshlim01/VGA_Music_Player_RTOS/blob/main/doc/diagram/task_1_diagram.png)
 
 ### Task 2 ✔️
     Instantiating the DDS module
 
-![Diagram of Task 2](https://github.com/joshlim01/VGA_Music_Player_RTOS/blob/main/doc/task_2_diagram.png)
+![Diagram of Task 2](https://github.com/joshlim01/VGA_Music_Player_RTOS/blob/main/doc/diagram/task_2_diagram.png)
 
 ### Task 3 ✔️
     Modulating the DDS using the LFSR using bit 0 of the LFSR
