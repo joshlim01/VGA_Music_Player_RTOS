@@ -24,7 +24,7 @@ Digital design - Nios, Qsys, Direct Digital Synthesis, LFSR, Modulations, Clock 
 ### Task 3 ✔️
     Modulating the DDS using the LFSR using bit 0 of the LFSR
 
-    Generating the ASK (OOS), BPSK, and LFSR signals
+    Generating the ASK (OOS), BPSK, and LFSR signals with proper clock domain crossing
     
 ### Task 4 ✔️
     Connecting the signals to the VGA oscilloscope
@@ -41,7 +41,7 @@ Digital design - Nios, Qsys, Direct Digital Synthesis, LFSR, Modulations, Clock 
 Read up more on QPSK here - https://www.ece.unb.ca/tervo/ece4253/qpsk.shtml
 
 ### Task 8 ✔️
-    Enabling audio and adding 3 songs to the music player
+    Enabling audio and adding 3 songs to the music player (use the wav2c.m script)
 
     Adding a 'PREV' and 'NEXT' button in the GUI to navigate between songs like a radio.
 

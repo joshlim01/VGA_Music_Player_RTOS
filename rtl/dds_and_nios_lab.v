@@ -560,17 +560,6 @@ always @(*) begin
 end
 
 	
-// BONUS PART C: Song selector
-//always @(*) begin
-//	case (audio_selector)
-//	  2'b00 : qpsk_out = cos_out;
-//	  2'b01 : qpsk_out = ~sin_out;
-//	  2'b10 : qpsk_out = ~cos_out;
-//	  2'b11 : qpsk_out = sin_out;
-//	  default: qpsk_out = cos_out;
-//	endcase
-//end	
-	
 ////////////////////////////////////////////////////////////////////
 // 
 //                       End of Student Code Section
