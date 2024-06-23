@@ -2,19 +2,24 @@ repo - https://github.com/joshlim01/VGA_Music_Player_RTOS \
 youtube video - coming soon
 
 # VGA_Music_Player_RTOS
-Digital design - Nios, Qsys, Direct Digital Synthesis, LFSR, Modulations, Clock Domains, MicroC OS-II RTOS\
-This is a music player and oscilloscope with a GUI that can be displayed on a VGA monitor.
+This is a music player and oscilloscope with a GUI that can be displayed on a VGA monitor.\
+Digital design - Nios, Qsys, Direct Digital Synthesis, LFSR, Modulations, Clock Domains, MicroC OS-II RTOS
+
 
 # SOF file location
 /rtl/dds_and_nios_lab_time_limited.sof
 # Lab status
 ### Task 1 ✔️
-    Generating a 1 Hz clock from a clock divider and instantiating a 5-bit LFSR to give us a pseudo-random bit sequence
+    Generating a 1 Hz clock from a clock divider for the LFSR
+    
+    Instantiating a 5-bit LFSR to give us a pseudo-random bit sequence
 
 ![Diagram of Task 1](https://github.com/joshlim01/VGA_Music_Player_RTOS/blob/main/doc/task_1_diagram.png)
 
 ### Task 2 ✔️
     Instantiating the DDS module
+
+![Diagram of Task 2](https://github.com/joshlim01/VGA_Music_Player_RTOS/blob/main/doc/task_2_diagram.png)
 
 ### Task 3 ✔️
     Modulating the DDS using the LFSR using bit 0 of the LFSR
