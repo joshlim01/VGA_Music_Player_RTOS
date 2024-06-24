@@ -51,7 +51,22 @@ Tracklist:
 3. Golden Brown - The Stranglers
 
 # Important location
-    coming soon
+    - Signal Tap
+    /rtl/stp1.stp
+    - 5-bit LFSR
+    /rtl/LFSR.sv
+    - Fast-to-Slow Clock Crossing
+    /rtl/fast_to_slow.sv
+    - Slow-to_Fast Clock Crossing
+    /rtl/slow_to_fast.sv
+    - Interrupt Routine for LFSR clock
+    /rtl/software/lab5/student_code/student_code.c
+    - GUI Interface for VGA display
+    /rtl/software/lab5/hello_ucosii.c
+    - Songs for Music Player
+    /rtl/software/lab5/songs/song.c
+    /rtl/software/lab5/songs/song_ex_1.c
+    /rtl/software/lab5/songs/song_ex_2.c
 
 # Simulations
 
