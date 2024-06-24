@@ -76,7 +76,7 @@ Tracklist:
 ### Fast-to-Slow Clock Crossing
 ![Fast-to-Slow](https://github.com/joshlim01/VGA_Music_Player_RTOS/blob/main/doc/fast_to_slow_annotated_simulation.png)
 
-### Fast-to-Slow Clock Crossing
+### Slow-to-Fast Clock Crossing
 ![Slow-to-Fast](https://github.com/joshlim01/VGA_Music_Player_RTOS/blob/main/doc/slow_to_fast_annotated_simulation.png)
 
 # SignalTap (signal analyzer)
