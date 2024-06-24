@@ -55,8 +55,19 @@ Tracklist:
 
 # Simulations
 
-coming soon
+### 5-Bit LFSR
+![LFSR](https://github.com/joshlim01/VGA_Music_Player_RTOS/blob/main/doc/lfsr_annotated_simulation.png)
+
+### Fast-to-Slow Clock Crossing
+![Fast-to-Slow](https://github.com/joshlim01/VGA_Music_Player_RTOS/blob/main/doc/fast_to_slow_annotated_simulation.png)
+
+### Fast-to-Slow Clock Crossing
+![Slow-to-Fast](https://github.com/joshlim01/VGA_Music_Player_RTOS/blob/main/doc/slow_to_fast_annotated_simulation.png)
 
 # SignalTap (signal analyzer)
 
-coming soon
+### DDS
+![DDS](https://github.com/joshlim01/VGA_Music_Player_RTOS/blob/main/doc/dds_annotated_signaltap.png)
+
+### Fast-to-Slow Clock Crossing
+![Fast-to-Slow](https://github.com/joshlim01/VGA_Music_Player_RTOS/blob/main/doc/fast_to_slow_annotated_signaltap.png)
