@@ -1,11 +1,11 @@
 repo - https://github.com/joshlim01/VGA_Music_Player_RTOS \
-youtube video - coming soon
+youtube video - https://youtu.be/6r-ynVrTTC8?si=HEYBVH7sGUxDApkT
 
 # VGA_Music_Player_RTOS
 This is a music player and oscilloscope with a GUI that can be displayed on a VGA monitor.\
 Digital design - Nios, Qsys, Direct Digital Synthesis, LFSR, Modulations, Clock Domains, MicroC OS-II RTOS
 
-
+![VGA Monitor w/ Lab](https://github.com/joshlim01/VGA_Music_Player_RTOS/blob/main/doc/lab_monitor.jpg)
 # SOF file location
 /rtl/dds_and_nios_lab_time_limited.sof
 # Lab status
